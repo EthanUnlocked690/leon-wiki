@@ -46,3 +46,4 @@ invisibility.png
 lingering-smoke.png
 extra-hot-wasabi.png
 mutation.png
+historical-reasons-warning.png

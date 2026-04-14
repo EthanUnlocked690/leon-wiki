@@ -66,3 +66,4 @@ I've already uploaded the following:
 ![invisibility](https://github.com/user-attachments/assets/829ca6ee-39b0-44e6-b1a1-24b15930a704)
 <img width="176" height="221" alt="hypercharge-skin" src="https://github.com/user-attachments/assets/6af39583-7dc5-455d-9714-1156ba606d34" />
 
+Info from: https://brawlstars.fandom.com/wiki/Leon

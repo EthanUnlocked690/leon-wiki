@@ -42,11 +42,27 @@ https://github.com/user-attachments/assets/258aef91-843c-45a8-b53b-ff85a36c2a0f
 <img width="563" height="711" alt="Screenshot 2026-04-14 123656" src="https://github.com/user-attachments/assets/416e5dcf-893d-4aaa-bd49-ce59b0d01b7d" />
 <img width="554" height="439" alt="Screenshot 2026-04-14 123647" src="https://github.com/user-attachments/assets/772d57e1-3c67-4828-b991-9ba7c807714a" />
 I've already uploaded the following:
-invisibility.png
-lingering-smoke.png
-extra-hot-wasabi.png
-mutation.png
-historical-reasons-warning.png
-buff.png
-neutral.png
-nerf.png
+![lingering-smoke](https://github.com/user-attachments/assets/9eaae46a-9a25-496c-94e1-817d4e4d568f)
+![extra-hot-wasabi](https://github.com/user-attachments/assets/1229666d-a0be-46c5-a3cd-ce6fad914832)
+<img width="105" height="99" alt="mutation" src="https://github.com/user-attachments/assets/ee9906a6-9610-4ab5-9328-f48c0a2b6f84" />
+![buff](https://github.com/user-attachments/assets/340c1a03-ae87-4bd5-a20d-29edb3b8f655)
+![neutral](https://github.com/user-attachments/assets/95965e17-b19e-47c6-a9d2-0036b1373c73)
+![nerf](https://github.com/user-attachments/assets/02d2bcbd-8db5-4622-af86-46adf2e56ae1)
+![rare](https://github.com/user-attachments/assets/5b239140-5a60-4ac1-a3de-86b7dc3e5db3)
+![animal-kingdom](https://github.com/user-attachments/assets/4222a216-4804-4674-ad38-d7f92edeed78)
+![streetwear](https://github.com/user-attachments/assets/588aace3-17ad-4702-a9b0-85ef15066c3b)
+![mecha-squad](https://github.com/user-attachments/assets/df58c2cd-9b11-413e-8f6e-68acc799df05)
+![legendary](https://github.com/user-attachments/assets/2f3c42f9-80f4-4b5b-9ff0-a6b3d35dcb88)
+![super-rare](https://github.com/user-attachments/assets/59e02c9c-c850-4b77-a775-b61e05e981f6)
+![brown-and-friends](https://github.com/user-attachments/assets/74980b20-873b-42bf-929f-4a6e8c0cd879)
+![summer-of-brawl](https://github.com/user-attachments/assets/be3f8848-c2ec-4621-8722-117185b10d97)
+![epic](https://github.com/user-attachments/assets/0d6a647f-79e8-4e1f-b8d7-4ff1ada127c8)
+![brawl-o-ween](https://github.com/user-attachments/assets/ed99e43a-16e5-4b52-aacb-7e5667b655c1)
+![world-champions-2024](https://github.com/user-attachments/assets/4a85bfbe-ac6c-4a96-9d85-9bdd1c004f1a)
+![mythic](https://github.com/user-attachments/assets/7edddf97-f64b-4a26-921f-fa0d6a720496)
+![true-silver](https://github.com/user-attachments/assets/4238fa71-fb00-46e5-bb8a-3aa2235bf149)
+![true-gold](https://github.com/user-attachments/assets/f72a906b-584e-4bbc-a117-4b6b2ee71491)
+![pro-pass](https://github.com/user-attachments/assets/b7f79bc1-d478-43e2-a92f-666dae33a6f5)
+![invisibility](https://github.com/user-attachments/assets/829ca6ee-39b0-44e6-b1a1-24b15930a704)
+<img width="176" height="221" alt="hypercharge-skin" src="https://github.com/user-attachments/assets/6af39583-7dc5-455d-9714-1156ba606d34" />
+

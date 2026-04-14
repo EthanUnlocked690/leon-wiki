@@ -1,0 +1,26 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editor/IDE Settings ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Temporary/Log Files ---
+*.log
+logs/
+tmp/
+temp/
+
+# --- Dependency Folders ---
+# (Uncomment the line below if you use npm/node)
+# node_modules/
+
+# --- Local Config/Drafts ---
+# Ignores any personal notes or secret keys
+.env
+*.local.md
+drafts/

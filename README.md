@@ -67,3 +67,4 @@ I've already uploaded the following:
 <img width="176" height="221" alt="hypercharge-skin" src="https://github.com/user-attachments/assets/6af39583-7dc5-455d-9714-1156ba606d34" />
 
 Info from: https://brawlstars.fandom.com/wiki/Leon
+Audio and Images from: https://fankit.supercell.com/d/YvtsWV4pUQVm/game-assets?q=leon

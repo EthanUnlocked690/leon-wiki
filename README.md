@@ -65,6 +65,10 @@ I've already uploaded the following:
 ![pro-pass](https://github.com/user-attachments/assets/b7f79bc1-d478-43e2-a92f-666dae33a6f5)
 ![invisibility](https://github.com/user-attachments/assets/829ca6ee-39b0-44e6-b1a1-24b15930a704)
 <img width="176" height="221" alt="hypercharge-skin" src="https://github.com/user-attachments/assets/6af39583-7dc5-455d-9714-1156ba606d34" />
-
+<img width="309" height="314" alt="leon-prestige-1" src="https://github.com/user-attachments/assets/ccf3aaab-1403-43e0-8375-5c78e65ae415" />
+<img width="380" height="357" alt="leon-prestige-2" src="https://github.com/user-attachments/assets/8be771b9-14f1-4ef3-bb9b-c48e208633b4" />
+<img width="503" height="450" alt="leon-prestige-3" src="https://github.com/user-attachments/assets/65ea4afc-3d3c-4bfb-a4cd-42b8aa865500" />
+<img width="164" height="139" alt="leon-2000" src="https://github.com/user-attachments/assets/0a1edb78-5841-4f6f-ade5-ca6e00ffb59e" />
+<img width="127" height="118" alt="leon-1000" src="https://github.com/user-attachments/assets/4362201e-76a3-4fef-823f-da9f8acc306c" />
 Info from: https://brawlstars.fandom.com/wiki/Leon
 Audio and Images from: https://fankit.supercell.com/d/YvtsWV4pUQVm/game-assets?q=leon

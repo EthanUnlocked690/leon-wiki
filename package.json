@@ -1,0 +1,22 @@
+{
+  "name": "leon-wiki",
+  "version": "1.0.0",
+  "description": "A wiki site for the Brawl Stars character Leon.",
+  "main": "index.html",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brawlstars",
+    "leon",
+    "wiki"
+  ],
+  "author": "Ethan Ioannou",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

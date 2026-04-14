@@ -42,6 +42,7 @@ https://github.com/user-attachments/assets/258aef91-843c-45a8-b53b-ff85a36c2a0f
 <img width="563" height="711" alt="Screenshot 2026-04-14 123656" src="https://github.com/user-attachments/assets/416e5dcf-893d-4aaa-bd49-ce59b0d01b7d" />
 <img width="554" height="439" alt="Screenshot 2026-04-14 123647" src="https://github.com/user-attachments/assets/772d57e1-3c67-4828-b991-9ba7c807714a" />
 I've already uploaded the following:
-![invisibility](https://github.com/user-attachments/assets/53ad8598-ed25-4147-a764-0b7f69979e65)
-![lingering-smoke](https://github.com/user-attachments/assets/52680647-e3f3-4b78-b557-9b67f52a8932)
-![extra-hot-wasabi](https://github.com/user-attachments/assets/c3f9dd86-dbb2-4c0e-8f23-9f4a0df16f25)
+invisibility.png
+lingering-smoke.png
+extra-hot-wasabi.png
+mutation.png

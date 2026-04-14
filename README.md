@@ -70,5 +70,6 @@ I've already uploaded the following:
 <img width="503" height="450" alt="leon-prestige-3" src="https://github.com/user-attachments/assets/65ea4afc-3d3c-4bfb-a4cd-42b8aa865500" />
 <img width="164" height="139" alt="leon-2000" src="https://github.com/user-attachments/assets/0a1edb78-5841-4f6f-ade5-ca6e00ffb59e" />
 <img width="127" height="118" alt="leon-1000" src="https://github.com/user-attachments/assets/4362201e-76a3-4fef-823f-da9f8acc306c" />
+![leon-prestige-2](https://github.com/user-attachments/assets/5b532885-af2c-40cc-be91-cec17aa2c7f0)
 Info from: https://brawlstars.fandom.com/wiki/Leon
 Audio and Images from: https://fankit.supercell.com/d/YvtsWV4pUQVm/game-assets?q=leon

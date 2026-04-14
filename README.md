@@ -47,3 +47,6 @@ lingering-smoke.png
 extra-hot-wasabi.png
 mutation.png
 historical-reasons-warning.png
+buff.png
+neutral.png
+nerf.png

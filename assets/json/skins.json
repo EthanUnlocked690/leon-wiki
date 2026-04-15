@@ -1,1 +1,34 @@
-
+{
+  "brawler": "Leon",
+  "skins": [
+    {
+      "id": "leon_shark",
+      "name": "Shark Leon",
+      "rarity": "Super Rare",
+      "cost": {
+        "gems": 79,
+        "bling": 2750
+      },
+      "availability": "Permanent",
+      "features": ["Custom Model", "Custom Texture"],
+      "image_url": "https://example.com"
+    },
+    {
+      "id": "leon_white_wolf",
+      "name": "White Wolf Leon",
+      "rarity": "Mythic",
+      "cost": {
+        "gems": 199,
+        "bling": null
+      },
+      "availability": "Seasonal (Brawl-o-ween)",
+      "features": [
+        "Custom Model",
+        "Custom Effects",
+        "Custom Animations",
+        "Custom Voice"
+      ],
+      "image_url": "https://example.com"
+    }
+  ]
+}

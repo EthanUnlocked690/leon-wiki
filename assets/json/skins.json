@@ -11,7 +11,7 @@
       },
       "availability": "Permanent",
       "features": ["Custom Model", "Custom Texture"],
-      "image_url": "https://example.com"
+      "image_url": "../assets/images/leon_shark_leon_001.png"
     },
     {
       "id": "leon_white_wolf",
@@ -28,7 +28,64 @@
         "Custom Animations",
         "Custom Voice"
       ],
-      "image_url": "https://example.com"
+      "image_url": "../assets/images/leon_white_wolf_leon_152.png"
+    },
+    {
+      "id": "leon_mecha",
+      "name": "Mecha Leon",
+      "rarity": "Legendary",
+      "cost": {
+        "gems": 299,
+        "bling": null
+      },
+      "avalibility": "Permanent",
+      "features": [
+        "Custom Model",
+        "Custom Effects",
+        "Custom Animations",
+        "Custom Voice",
+        "Custom Takedown",
+        "Custom Texture"
+      ],
+      "image_url": "../assets/images/leon_mechaleon_320.png"
+    },
+    {
+      "id": "leon_mecha_radiant",
+      "name": "Radiant Mecha Leon",
+      "rarity": "Legendary",
+      "cost": {
+        "gems": 299,
+        "bling": null
+      },
+      "avaliability": "Permanent",
+      "features": [
+        "Custom Model",
+        "Custom Effects",
+        "Custom Animations",
+        "Custom Voice",
+        "Custom Takedown",
+        "Custom Texture"
+      ],
+      "image_url": "../assets/images/leon_radiant_mecha_leon_320.png"
+    },
+        {
+      "id": "leon_mecha_shadow",
+      "name": "Shadow Mecha Leon",
+      "rarity": "Legendary",
+      "cost": {
+        "gems": 299,
+        "bling": null
+      },
+      "avaliability": "Permanent",
+      "features": [
+        "Custom Model",
+        "Custom Effects",
+        "Custom Animations",
+        "Custom Voice",
+        "Custom Takedown",
+        "Custom Texture"
+      ],
+      "image_url": "../assets/images/leon_shadow_mecha_leon_320.png"
     }
   ]
 }

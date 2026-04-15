@@ -1,7 +1,43 @@
-/* ==========================================
-   Wiki - Shared Stylesheet
-   ========================================== */
-
-/* ─── Tokens ──────────────────────────────── */
+/* Core Brawl Stars Styles */
 :root {
-  --bg:        #FFFFFF;
+  --brawl-blue: #007bff;
+  --legendary-yellow: #ffcc00; /* For Leon's rarity */
+  --brawl-border: #1a1a1a;
+}
+
+body {
+  font-family: 'Lilita One', cursive; /* Game's iconic font style */
+  background: radial-gradient(circle, #2c3e50, #000000);
+  color: white;
+}
+
+/* Character Infobox Container */
+.infobox {
+  float: right;
+  width: 300px;
+  background: rgba(0, 0, 0, 0.8);
+  border: 4px solid var(--brawl-border);
+  border-radius: 15px;
+  padding: 15px;
+  margin-left: 20px;
+  box-shadow: 5px 5px 0px var(--legendary-yellow); /* Character rarity accent */
+}
+
+/* Skill Sections (Attack/Super) */
+.skill-card {
+  background: #333;
+  border-left: 10px solid var(--brawl-blue);
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+/* Big Button Effects */
+.brawl-button {
+  background: linear-gradient(180deg, #ffcc00 0%, #ff8800 100%);
+  border: 3px solid #000;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}

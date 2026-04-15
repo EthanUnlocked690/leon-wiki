@@ -1,1 +1,47 @@
-
+{
+  "brawler": "Leon",
+  "sounds": {
+    "buffie_attacks": [
+      {
+        "id": "hyper_buffie_attack",
+        "name": "Hypercharge Attack sound (With Buffie)",
+        "file": "../assets/audio/leon_buddy_atk_sfx_01.wav",
+        "description": "What Leon's attack sounds like when Hypercharge is active (With a Buffie)"
+      },
+      {
+        "id": "gadget_1_with_buffie",
+        "name": "Gadget 1 with Buffie",
+        "file": "../assets/audio/leon_def_buddy_gadget1_sfx_01.ogg",
+        "transcription": "*Swoosh* (I guess?)"
+      },
+            {
+        "id": "gadget_2_with_buffie_released",
+        "name": "Gadget 2 with Buffie (When throwing)",
+        "file": "../assets/audio/leon_def_buddy_gadget2_sfx_01.ogg",
+        "transcription": "When throwing Gadget 2 (with buffie) this is what sound it makes"
+      }
+    ],
+    "neutral_attacks": [
+      {
+        "id": "attack",
+        "name": "Spinner Attack",
+        "file": "sounds/leon/attack.mp3",
+        "description": "Sound of throwing shurikens."
+      },
+      {
+        "id": "super",
+        "name": "Smoke Bomb",
+        "file": "sounds/leon/super_activate.mp3",
+        "description": "Sound when becoming invisible."
+      }
+    ],
+    "voicelines": [
+      {
+        "id": "death_voiceline_1",
+        "name": "Death Voiceline 1",
+        "file": "../assets/audio/leon_die_vo_01.ogg",
+        "description": "The first voiceline I could find of Leon dying"
+      }
+    ]
+  }
+}

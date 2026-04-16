@@ -40,8 +40,26 @@
         "id": "death_voiceline_1",
         "name": "Death Voiceline 1",
         "file": "../assets/audio/leon_die_vo_01.ogg",
-        "description": "The first voiceline I could find of Leon dying"
-      }
+        "transcription": "Not fair!"
+      },
+      {
+        "id": "death_voiceline_2",
+        "name": "Death Voiceline 2",
+        "file": "../assets/audio/leon_die_vo_02.ogg",
+        "transcription": "You got me!"
+      },
+            {
+        "id": "death_voiceline_3",
+        "name": "Death Voiceline 3",
+        "file": "../assets/audio/leon_die_vo_03.ogg",
+        "transcription": "NITAAAAA!"
+      },
+            {
+        "id": "death_voiceline_4",
+        "name": "Death Voiceline 4",
+        "file": "../assets/audio/leon_die_vo_04.ogg",
+        "transcription": "NOOOOOOOOO!"
+      },
     ]
   }
 }

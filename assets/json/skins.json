@@ -168,5 +168,21 @@
       ],
       "image_url": "../assets/images/leon_true_gold_leon_001.png"
     },
+                        {
+      "id": "leon_true_silver_leon",
+      "name": "True Silver Leon",
+      "rarity": "No Rarity",
+      "cost": {
+        "gems": null,
+        "bling": null,
+        "coins": 10000
+      },
+      "avaliability": "Permament",
+      "features": [
+        "Custom Model",
+        "Custom Texture"
+      ],
+      "image_url": "../assets/images/leon_true_silver_leon_001.png"
+    },
   ]
 }

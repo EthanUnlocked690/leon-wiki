@@ -152,5 +152,21 @@
       ],
       "image_url": "../assets/images/leon_trick_or_treat_leon_001.png"
     },
+                    {
+      "id": "leon_true_gold_leon",
+      "name": "True Gold Leon",
+      "rarity": "No Rarity",
+      "cost": {
+        "gems": null,
+        "bling": null,
+        "coins": 25000
+      },
+      "avaliability": "Permament",
+      "features": [
+        "Custom Model",
+        "Custom Texture"
+      ],
+      "image_url": "../assets/images/leon_true_gold_leon_001.png"
+    },
   ]
 }

@@ -1,7 +1,6 @@
 {
   "brawler": "Leon",
   "sounds": {
-    "buffie_attacks": [
       {
         "id": "hyper_buffie_attack",
         "name": "Hypercharge Attack sound (With Buffie)",
@@ -19,23 +18,19 @@
         "name": "Gadget 2 with Buffie (When throwing)",
         "file": "../assets/audio/leon_def_buddy_gadget2_sfx_01.ogg",
         "transcription": "When throwing Gadget 2 (with buffie) this is what sound it makes"
-      }
-    ],
-    "neutral_attacks": [
-      {
-        "id": "attack",
-        "name": "Spinner Attack",
-        "file": "sounds/leon/attack.mp3",
-        "description": "Sound of throwing shurikens."
       },
       {
-        "id": "super",
-        "name": "Smoke Bomb",
-        "file": "sounds/leon/super_activate.mp3",
-        "description": "Sound when becoming invisible."
-      }
-    ],
-    "voicelines": [
+        "id": "attack",
+        "name": "Attack",
+        "file": "../assets/audio/leon_star_01.ogg",
+        "description": "Leons attack"
+      },
+            {
+        "id": "attack",
+        "name": "Dry attack",
+        "file": "../assets/audio/leon_star_dry_01.ogg",
+        "description": "What it sounds like to run out of ammo while shooting"
+      },
       {
         "id": "death_voiceline_1",
         "name": "Death Voiceline 1",
@@ -89,6 +84,102 @@
         "name": "Hurt Voiceline 5",
         "file": "../assets/audio/leon_hurt_vo_05.ogg",
         "transcription": "*Grunts* (Again)"
+      },
+                              {
+        "id": "super",
+        "name": "On Super",
+        "file": "../assets/audio/leon_invis_01.ogg",
+        "description": "What activating the super sounds like"
+      },
+      {
+        "id": "super-end",
+        "name": "On Super End",
+        "file": "../assets/audio/leon_invis_end_01.ogg",
+        "description": "What it sounds like when the super ends"
+      },
+      {
+        "id": "leon_Kill_1",
+        "name": "Kill Voiceline 1",
+        "file": "../assets/audio/leon_kill_01.ogg",
+        "transcription": "Yes. Yes. YES!"
+      },
+            {
+        "id": "leon_Kill_2",
+        "name": "Kill Voiceline 2",
+        "file": "../assets/audio/leon_kill_02.ogg",
+        "transcription": "Hahahahaaaa!"
+      },
+            {
+        "id": "leon_Kill_3",
+        "name": "Kill Voiceline 3",
+        "file": "../assets/audio/leon_kill_03.ogg",
+        "transcription": "Yeahhh!"
+      },
+                  {
+        "id": "leon_Kill_4",
+        "name": "Kill Voiceline 4",
+        "file": "../assets/audio/leon_kill_04.ogg",
+        "transcription": "Yeah!"
+      },
+                  {
+        "id": "leon_Kill_5",
+        "name": "Kill Voiceline 5",
+        "file": "../assets/audio/leon_kill_05.ogg",
+        "transcription": "Woo Hoo!"
+      },
+                  {
+        "id": "leon_Kill_6",
+        "name": "Kill Voiceline 6",
+        "file": "../assets/audio/leon_kill_06.ogg",
+        "transcription": "Yes!"
+      },
+                  {
+        "id": "leon_lead_1",
+        "name": "Leading Voiceline 1",
+        "file": "../assets/audio/leon_lead_vo_1.ogg",
+        "transcription": "Leon in lead!"
+      },
+                  {
+        "id": "leon_lead_2",
+        "name": "Leading Voiceline 2",
+        "file": "../assets/audio/leon_lead_vo_2.ogg",
+        "transcription": "Hey Nita! Check me out!"
+      },
+                        {
+        "id": "leon_lead_3",
+        "name": "Leading Voiceline 3",
+        "file": "../assets/audio/leon_lead_vo_3.ogg",
+        "transcription": "Untouchable!"
+      },
+                        {
+        "id": "leon_lead_4",
+        "name": "Leading Voiceline 4",
+        "file": "../assets/audio/leon_lead_vo_4.ogg",
+        "transcription": "Yeahhhh!"
+      },
+                        {
+        "id": "leon_lead_5",
+        "name": "Leading Voiceline 5",
+        "file": "../assets/audio/leon_lead_vo_5.ogg",
+        "transcription": "Woo hoooo!"
+      },
+                        {
+        "id": "leon_reload_1",
+        "name": "Reload Sound",
+        "file": "../assets/audio/leon_reload_1.ogg",
+        "description": "What Leon's reload sounds like"
+      },
+                              {
+        "id": "leon_reload_1",
+        "name": "Reload Sound",
+        "file": "../assets/audio/leon_reload_1.ogg",
+        "description": "What Leon's reload sounds like"
+      },
+                              {
+        "id": "leon_start_1",
+        "name": "Leon starting voiceline 1",
+        "file": "../assets/audio/leon_start_vo_01.ogg",
+        "transcription": "Let's go!"
       },
     ]
   }

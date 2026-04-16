@@ -60,6 +60,36 @@
         "file": "../assets/audio/leon_die_vo_04.ogg",
         "transcription": "NOOOOOOOOO!"
       },
+            {
+        "id": "hurt_voiceline_1",
+        "name": "Hurt Voiceline 1",
+        "file": "../assets/audio/leon_hurt_vo_01.ogg",
+        "transcription": "No way!"
+      },
+            {
+        "id": "hurt_voiceline_2",
+        "name": "Hurt Voiceline 2",
+        "file": "../assets/audio/leon_hurt_vo_02.ogg",
+        "transcription": "*Grunts*"
+      },
+                  {
+        "id": "hurt_voiceline_3",
+        "name": "Hurt Voiceline 3",
+        "file": "../assets/audio/leon_hurt_vo_03.ogg",
+        "transcription": "*Grunts*"
+      },
+                        {
+        "id": "hurt_voiceline_4",
+        "name": "Hurt Voiceline 4",
+        "file": "../assets/audio/leon_hurt_vo_04.ogg",
+        "transcription": "Don't make me get Nita!"
+      },
+                        {
+        "id": "hurt_voiceline_5",
+        "name": "Hurt Voiceline 5",
+        "file": "../assets/audio/leon_hurt_vo_05.ogg",
+        "transcription": "*Grunts* (Again)"
+      },
     ]
   }
 }

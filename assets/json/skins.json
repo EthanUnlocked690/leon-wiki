@@ -103,5 +103,54 @@
       ],
       "image_url": "../assets/images/leon_sally_leon_001.png"
     },
+                {
+      "id": "leon_dino_leon",
+      "name": "Dino Leon",
+      "rarity": "Super Rare",
+      "cost": {
+        "gems": 79,
+        "bling": 2750
+      },
+      "avaliability": "Permanent",
+      "features": [
+        "Custom Effects",
+        "Custom Model",
+        "Custom Texture",
+        "Custom Pin"
+      ],
+      "image_url": "../assets/images/leon_dino_leon_001.png"
+    },
+                {
+      "id": "leon_leon_the_stray",
+      "name": "Leon the Stray",
+      "rarity": "Rare",
+      "cost": {
+        "gems": 29,
+        "bling": 1000
+      },
+      "avaliability": "Permanent",
+      "features": [
+        "Custom Model",
+        "Custom Texture"
+      ],
+      "image_url": "../assets/images/leon_leon_the_stray_001.png"
+    },
+                {
+      "id": "leon_trick_or_treat_leon",
+      "name": "Trick or Treat Leon",
+      "rarity": "Super Rare",
+      "cost": {
+        "gems": 79,
+        "bling": null
+      },
+      "avaliability": "Seasonal (Brawl-o-ween)",
+      "features": [
+        "Custom Effects",
+        "Custom Model",
+        "Custom Texture",
+        "Custom Pin"
+      ],
+      "image_url": "../assets/images/leon_trick_or_treat_leon_001.png"
+    },
   ]
 }

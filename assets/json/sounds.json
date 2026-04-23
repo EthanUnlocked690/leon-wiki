@@ -193,6 +193,222 @@
         "file": "../assets/audio/leon_start_vo_03.ogg",
         "transcription": "Time to brawl!"
       },
+                              {
+        "id": "leon_start_4",
+        "name": "Leon starting voiceline 4",
+        "file": "../assets/audio/leon_start_vo_04.ogg",
+        "transcription": "Yeahhh!"
+      },
+                              {
+        "id": "leon_start_5",
+        "name": "Leon starting voiceline 5",
+        "file": "../assets/audio/leon_start_vo_05.ogg",
+        "transcription": "Yeahh!"
+      },
+                              {
+        "id": "leon_util_1",
+        "name": "Leon util voiceline 1",
+        "file": "../assets/audio/leon_util_vo_01.ogg",
+        "transcription": "Sneaky Time!"
+      },
+                              {
+        "id": "leon_util_2",
+        "name": "Leon util voiceline 2",
+        "file": "../assets/audio/leon_util_vo_02.ogg",
+        "transcription": "Invisibility!"
+      },
+                              {
+        "id": "leon_util_3",
+        "name": "Leon util voiceline 3",
+        "file": "../assets/audio/leon_util_vo_04.ogg",
+        "transcription": "Watch this!"
+      },
+                              {
+        "id": "leon_util_4",
+        "name": "Leon util voiceline 4",
+        "file": "../assets/audio/leon_util_vo_05.ogg",
+        "transcription": "Ha! See ya!"
+      },
+                              {
+        "id": "leon_wolf_util_1",
+        "name": "Leon wolf util voiceline 1",
+        "file": "../assets/audio/leon_wolf_util_vo_01.ogg",
+        "transcription": "HOWWWWWWWWWWL!"
+      },
+                              {
+        "id": "mech_leon_die_1",
+        "name": "Mecha Leon Death Voiceline 1",
+        "file": "../assets/audio/mech_leon_die_vo_01.ogg",
+        "transcription": "NOT FAIR!"
+      },
+                              {
+        "id": "mech_leon_die_2",
+        "name": "Mecha Leon Death Voiceline 2",
+        "file": "../assets/audio/mech_leon_die_vo_02.ogg",
+        "transcription": "YOU GOT. ME!"
+      },
+                              {
+        "id": "mech_leon_die_3",
+        "name": "Mecha Leon Death Voiceline 3",
+        "file": "../assets/audio/mech_leon_die_vo_03.ogg",
+        "transcription": "NITAAAAAA!"
+      },
+                              {
+        "id": "mech_leon_die_4",
+        "name": "Mecha Leon Death Voiceline 4",
+        "file": "../assets/audio/mech_leon_die_vo_04.ogg",
+        "transcription": "NOOOOOOOOO!"
+      },
+                              {
+        "id": "mech_leon_hurt_01",
+        "name": "Mecha Leon Hurt Voiceline 1",
+        "file": "../assets/audio/mech_leon_hurt_vo_01.ogg",
+        "transcription": "No way!"
+      },
+                              {
+        "id": "mech_leon_hurt_02",
+        "name": "Mecha Leon Hurt Voiceline 2",
+        "file": "../assets/audio/mech_leon_hurt_vo_02.ogg",
+        "transcription": "*Grunts*"
+      },
+                              {
+        "id": "mech_leon_hurt_03",
+        "name": "Mecha Leon Hurt Voiceline 3",
+        "file": "../assets/audio/mech_leon_hurt_vo_03.ogg",
+        "transcription": "Arghh!"
+      },
+                              {
+        "id": "mech_leon_hurt_04",
+        "name": "Mecha Leon Hurt Voiceline 4",
+        "file": "../assets/audio/mech_leon_hurt_vo_04.ogg",
+        "transcription": "Don't make me get Nita!"
+      },
+                              {
+        "id": "mech_leon_hurt_05",
+        "name": "Mecha Leon Hurt Voiceline 5",
+        "file": "../assets/audio/mech_leon_hurt_vo_05.ogg",
+        "transcription": "*Grunts*"
+      },
+                              {
+        "id": "mech_leon_kill_01",
+        "name": "Mecha Leon Kill Voiceline 1",
+        "file": "../assets/audio/mech_leon_kill_vo_01.ogg",
+        "transcription": "Yes! Yes! Yees!"
+      },
+                              {
+        "id": "mech_leon_kill_02",
+        "name": "Mecha Leon Kill Voiceline 2",
+        "file": "../assets/audio/mech_leon_kill_vo_02.ogg",
+        "transcription": "Hahahaha!"
+      },
+                              {
+        "id": "mech_leon_kill_03",
+        "name": "Mecha Leon Kill Voiceline 3",
+        "file": "../assets/audio/mech_leon_kill_vo_03.ogg",
+        "transcription": "Yeahhhh!"
+      },
+                              {
+        "id": "mech_leon_kill_04",
+        "name": "Mecha Leon Kill Voiceline 4",
+        "file": "../assets/audio/mech_leon_kill_vo_04.ogg",
+        "transcription": "Yeah!"
+      },
+                              {
+        "id": "mech_leon_kill_05",
+        "name": "Mecha Leon Kill Voiceline 5",
+        "file": "../assets/audio/mech_leon_kill_vo_05.ogg",
+        "transcription": "Woohoo!"
+      },
+                              {
+        "id": "mech_leon_kill_06",
+        "name": "Mecha Leon Kill Voiceline 6",
+        "file": "../assets/audio/mech_leon_kill_vo_06.ogg",
+        "transcription": "Yes!"
+      },
+                              {
+        "id": "mech_leon_lead_01",
+        "name": "Mecha Leon Lead Voiceline 1",
+        "file": "../assets/audio/mech_leon_lead_vo_01.ogg",
+        "transcription": "Leon in the lead!"
+      },
+                              {
+        "id": "mech_leon_lead_02",
+        "name": "Mecha Leon Lead Voiceline 2",
+        "file": "../assets/audio/mech_leon_lead_vo_02.ogg",
+        "transcription": "Hey Nita! Check me out!"
+      },
+                              {
+        "id": "mech_leon_lead_03",
+        "name": "Mecha Leon Lead Voiceline 3",
+        "file": "../assets/audio/mech_leon_lead_vo_03.ogg",
+        "transcription": "Untouchable!"
+      },
+                              {
+        "id": "mech_leon_lead_04",
+        "name": "Mecha Leon Lead Voiceline 4",
+        "file": "../assets/audio/mech_leon_lead_vo_04.ogg",
+        "transcription": "Yeahhh!"
+      },
+                              {
+        "id": "mech_leon_lead_05",
+        "name": "Mecha Leon Lead Voiceline 5",
+        "file": "../assets/audio/mech_leon_lead_vo_05.ogg",
+        "transcription": "Whoohoo!"
+      },
+                              {
+        "id": "mech_leon_start_01",
+        "name": "Mecha Leon Start Voiceline 1",
+        "file": "../assets/audio/mech_leon_start_vo_01.ogg",
+        "transcription": "Let's go!"
+      },
+                              {
+        "id": "mech_leon_start_02",
+        "name": "Mecha Leon Start Voiceline 2",
+        "file": "../assets/audio/mech_leon_start_vo_02.ogg",
+        "transcription": "We can do this!"
+      },
+                              {
+        "id": "mech_leon_start_03",
+        "name": "Mecha Leon Start Voiceline 3",
+        "file": "../assets/audio/mech_leon_start_vo_03.ogg",
+        "transcription": "Time to Brawl!"
+      },
+                              {
+        "id": "mech_leon_start_04",
+        "name": "Mecha Leon Start Voiceline 4",
+        "file": "../assets/audio/mech_leon_start_vo_04.ogg",
+        "transcription": "Yeahhhh!"
+      },
+                              {
+        "id": "mech_leon_start_05",
+        "name": "Mecha Leon Start Voiceline 5",
+        "file": "../assets/audio/mech_leon_start_vo_05.ogg",
+        "transcription": "Yeahhh!"
+      },
+                              {
+        "id": "mech_leon_util_01",
+        "name": "Mecha Leon Util Voiceline 1",
+        "file": "../assets/audio/mech_leon_util_vo_01.ogg",
+        "transcription": "Sneaky Time!"
+      },
+                              {
+        "id": "mech_leon_util_02",
+        "name": "Mecha Leon Util Voiceline 2",
+        "file": "../assets/audio/mech_leon_util_vo_02.ogg",
+        "transcription": "Invisibility"
+      },
+                              {
+        "id": "mech_leon_util_03",
+        "name": "Mecha Leon Util Voiceline 3",
+        "file": "../assets/audio/mech_leon_util_vo_03.ogg",
+        "transcription": "What's this?!"
+      },
+                              {
+        "id": "mech_leon_util_04",
+        "name": "Mecha Leon Util Voiceline 4",
+        "file": "../assets/audio/mech_leon_util_vo_04.ogg",
+        "transcription": "Ha! See ya!"
+      },
     ]
   }
 }

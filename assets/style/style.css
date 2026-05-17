@@ -8,3 +8,52 @@
   display: flex; align-items: center;
   padding: 0 24px; gap: 4px;
 }
+
+.nav-brand {
+  font-family: 'Syne', sans-serif; font-weight: 800; font-size: 1rem;
+  letter-spacing: .5px;
+  background: linear-gradient(135deg, var(--gold), var(--gold-soft));
+  -webkit-background-clip: text; background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-decoration: none; white-space: nowrap;
+  margin-right: 8px; flex-shrink: 0;
+  transition: filter .2s;
+}
+.nav-brand:hover { filter: brightness(1.15); }
+
+.nav-divider { width: 1px; height: 20px; background: var(--border); flex-shrink: 0; margin: 0 4px; }
+
+.nav-links { display: flex; align-items: center; gap: 2px; overflow-x: auto; flex: 1; }
+.nav-links::-webkit-scrollbar { height: 0; }
+
+.nav-links a {
+  font-size: .78rem; font-weight: 500; color: var(--sub);
+  text-decoration: none; padding: 5px 10px; border-radius: 8px;
+  white-space: nowrap; position: relative;
+  transition: color .16s, background .16s;
+}
+.nav-links a:hover { color: var(--text); background: rgba(255,255,255,.05); }
+.nav-links a.active { color: var(--text); }
+.nav-links a.active::after {
+  content: ''; position: absolute; bottom: 0; left: 50%;
+  transform: translateX(-50%);
+  width: 14px; height: 2px;
+  background: var(--gold); border-radius: 1px;
+}
+
+.nav-socials { display: flex; align-items: center; gap: 6px; flex-shrink: 0; margin-left: auto; }
+
+.nav-pill {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: .75rem; font-weight: 600;
+  padding: 5px 12px; border-radius: 99px;
+  text-decoration: none; border: 1px solid;
+  transition: transform .16s, box-shadow .16s, background .16s;
+}
+.nav-pill:hover { transform: translateY(-1px); }
+.nav-pill i { font-size: .8rem; }
+
+.nav-pill-yt  { color: var(--gold);   border-color: rgba(245,158,11,.25); background: rgba(245,158,11,.07); }
+.nav-pill-yt:hover  { background: rgba(245,158,11,.13); box-shadow: 0 4px 18px rgba(245,158,11,.18); }
+.nav-pill-dc  { color: #a5b4fc;       border-color: rgba(88,101,242,.25);  background: rgba(88,101,242,.07);  }
+.nav-pill-dc:hover  { background: rgba(88,101,242,.14); box-shadow: 0 4px 18px rgba(88,101,242,.2);  }
